@@ -50,7 +50,7 @@ body {
 .box-1-left .text-3,
 .top .title,
 .data-svg p {
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-weight: 500;
     font-style: normal;
 }
@@ -178,7 +178,7 @@ body {
 .box-2 {
     margin-top: 50px;
     background: white;
-    width: 100%;
+    width: 1920px;
     padding: 76px 0 119px 59px;
     display: flex;
 }
@@ -188,7 +188,7 @@ body {
 .text ul li,
 .text ul li p {
     color: #402c22;
-    font-family: Inter;
+    font-family: 'Inter';
     font-style: normal;
 }
 
@@ -201,20 +201,19 @@ body {
 }
 
 .text .title {
-    font-family: 'Optima nova LT Pro';
+    font-family: 'Optima';
     font-size: 63px;
     font-weight: 400;
     line-height: 106%;
     letter-spacing: -1.26px;
-    width: 468px;
+    width: 498px;
 }
 
 .text ul li {
     list-style: none;
     border-bottom: 1px solid #d9d5d3;
     padding: 5px 0;
-    /* width: 452px; */
-    width: 406px;
+    width: 452px;
 }
 
 .text ul li:last-child {
@@ -227,8 +226,7 @@ body {
 }
 
 .menu-content {
-    /* width: 403px; */
-    width: 354px;
+    width: 403px;
     font-weight: 500;
     font-size: 16px;
     line-height: 23px;
@@ -244,10 +242,6 @@ body {
     font-size: 22px;
     display: inline-block;
     padding: 12px 0;
-}
-
-.box-2 .img-1 {
-    margin-left: 36px;
 }
 
 .box-2 .img-1 img {
@@ -316,7 +310,8 @@ body {
 }
 
 .content .title {
-    font-size: 50px;
+    margin-bottom: 32px;
+    font-size: 58px;
     font-style: normal;
     line-height: 61px;
     letter-spacing: -1px;
@@ -353,7 +348,7 @@ body {
     width: 618px;
     padding: 20px 0 56px;
     text-align: center;
-    font-family: Inter;
+    font-family: 'Inter';
     font-size: 16px;
     font-style: normal;
     line-height: 25px;
