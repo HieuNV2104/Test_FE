@@ -11,6 +11,9 @@
 html {
     font-family: Helvetica;
 }
+body {
+    background: white;
+}
 .root {
     overflow: hidden;
 }
@@ -393,7 +396,7 @@ header {
 /* load */
 .load {
     padding: 16px 0;
-    margin-bottom: 64px;
+    margin-bottom: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -419,6 +422,7 @@ nav {
     align-items: center;
 }
 .menu-item {
+    height: 64px;
     padding: 8px 0;
     display: flex;
     flex-direction: column;
